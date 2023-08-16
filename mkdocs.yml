@@ -1,0 +1,49 @@
+site_name: Smart Digi Build
+site_url: https://fourcorners.asia
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: red
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+  
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
+  # Page tree
+nav:
+  - Home: index.md
+  - Super Admin: super-admin.md
+  - Customer Admin: customer-admin.md
+  - Facility: facility.md
+  - User: user.md
+  - Modules: modules.md
+  - Deployment: deployment.md
+  
+
+copyright: |
+  &copy; 2023 <a href="https://fourcorners.asia"  target="_blank" rel="noopener">Smart Digi Build</a>
