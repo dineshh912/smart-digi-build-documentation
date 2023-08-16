@@ -1,15 +1,111 @@
 # Customer Admin
 
-## Commands
+## Login
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Dashboard
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Location
+
+### List Location
+
+
+### Create Location
+
+
+### Update Location
+
+
+### Delete Location
+
+
+## Building
+
+### List Building
+
+
+### Create Building
+
+
+### Update Building
+
+
+### Delete Building
+
+
+## Floor
+
+### List Floor
+
+
+### Create Floor
+
+
+### Update Floor
+
+
+### Delete Floor
+
+
+## Zone
+
+### List Zone
+
+
+### Create Zone
+
+
+### Update Zone
+
+
+### Delete Zone
+
+
+## Device
+
+### List Device
+
+
+### Create Device
+
+
+### Update Device
+
+
+### Delete Device
+
+
+## Module
+
+### List Module
+
+
+## User
+
+### List User
+
+
+### Create User
+
+
+### Update User
+
+
+### Delete User
+
+
+## Logout
+
+
+## Settings
+
+
+### Logs
+
+
+### Personalization
+
+
+## Reports
+
